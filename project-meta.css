@@ -1,0 +1,7 @@
+.project-meta { margin: 1.25rem 0; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 1rem; line-height: 1.7; }
+.project-meta .project-authors { margin: 0 0 .5rem; font-size: 1rem; line-height: 1.7; }
+.project-meta .project-affiliations { margin: 0; font-size: .9375rem; line-height: 1.7; }
+.project-meta .project-links { margin: .75rem 0 0; font-size: 1rem; }
+.project-meta a { color: inherit; text-decoration: underline; text-underline-offset: .2em; }
+.project-meta a:focus-visible { outline: 2px solid currentColor; outline-offset: 4px; }
+.project-meta sup { font-size: .7em; vertical-align: super; }
